@@ -1,4 +1,3 @@
 # odin-recipes
 
-First project for The Odin Project
-Basic recipe website
+Basic recipe website for The Odin Project
